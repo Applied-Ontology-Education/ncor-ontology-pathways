@@ -8,9 +8,9 @@ The BFO Practitioner Certificate introduces students to the fundamentals of mode
 * **Module 1**
   - [Motivations for Basic Formal Ontology](https://www.youtube.com/watch?v=UVR1_WsGXMQ)
 * **Module 2**
-  - [Methodological Convictions of BFO]()
+  - [Methodological Convictions of BFO](https://www.youtube.com/watch?v=BuXoA3F5hBA)
 * **Module 3**
-  - [Theory of BFO 3a]()
+  - [Theory of BFO 3a](https://www.youtube.com/watch?v=fP70iaSKmXY)
   - [Theory of BFO 3b]()
   - [Theory of BFO 3c]()
   - [Theory of BFO 3d]()
