@@ -2,7 +2,7 @@
 
 ## Foundations: Basic Formal Ontology Practitioner
 
-The BFO Practitioner Certificate introduces students to the fundamentals of modeling data with the Basic Formal Ontology (BFO), a top-level architecture used by over 500 ontology and knowledge graph projects across the world. Students gain hands-on modeling experiences, working with subject-matter experts on active open-source projects leveraging BFO. Additionally, students will learn the philosophical and practical motivations for the distinctions drawn in BFO. This certificate course covers necessary building blocks for mastering differences and similarities across alternative top-level ontology architectures as well as for leveraging open-source ontologies to model specific domains, such as biomedicine, cyber security, climate change, and immigration, among many others. 
+The BFO Practitioner Certificate introduces students to the fundamentals of modeling data with the [Basic Formal Ontology (BFO)](https://basic-formal-ontology.org/), a top-level architecture used by over [700 ontology and knowledge graph projects](https://basic-formal-ontology.org/users.html) across the world. Students gain hands-on modeling experiences, working with subject-matter experts on active open-source projects leveraging BFO. Additionally, students will learn the philosophical and practical motivations for the distinctions drawn in BFO. This certificate course covers necessary building blocks for mastering differences and similarities across alternative top-level ontology architectures as well as for leveraging open-source ontologies to model specific domains, such as biomedicine, cyber security, climate change, and immigration, among many others. 
 
 ### Modules
 * **Module 1**
